@@ -2,6 +2,7 @@
 
 This is a web application that allows users to check the current weather conditions of a particular location. It is built using HTML, CSS, and JavaScript, and it utilizes the OpenWeatherMap API to retrieve weather data.
 
+[Live Demo](https://sahil0029.github.io/Weather-Application/)
 ## Features
 
 - Current Weather: Users can enter the name of a city or location in the search bar and get the current weather conditions, including temperature, humidity, wind speed, and weather description.
